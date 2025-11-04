@@ -14,8 +14,8 @@ Please can you:
     
     - Explains how to deploy a Docusaurus website to GitHub Pages.
     - You can use content from this README.md file as a reference, but please make sure to include step-by-step instructions, screenshots, and any other relevant information to help a non-technical user complete the task.
-    - Ensure you follow the structure outlined in our [Tutorial template](./docs/templates/1-template-tutorial.mdx).
-    - Follow the style outlined in our [Style guide](./docs/templates/2-style-guide.mdx).
+    - Ensure you follow the structure outlined in our [Tutorial template](https://philstollery.github.io/github-usaurus/docs/templates/template-tutorial).
+    - Follow the style outlined in our [Style guide](https://philstollery.github.io/github-usaurus/docs/templates/style-guide).
     - Please don't spend more than 45 minutes on the writing task.
   
 4. Publish the changes to your personal repository - and share the link with us to the hosted GitHub pages and your updated repository.
